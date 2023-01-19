@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-08-Sintaxis_fluida", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-09-Subquery", "01-09-Subquery\01-09-Subquery.csproj", "{4D728BF5-2263-4052-8777-8C1BE3A72C36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-10-Query_progresivo", "01-10-Query_progresivo\01-10-Query_progresivo.csproj", "{31317BA1-409F-4CA5-B421-C3FFC167198E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{4D728BF5-2263-4052-8777-8C1BE3A72C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D728BF5-2263-4052-8777-8C1BE3A72C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D728BF5-2263-4052-8777-8C1BE3A72C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31317BA1-409F-4CA5-B421-C3FFC167198E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31317BA1-409F-4CA5-B421-C3FFC167198E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31317BA1-409F-4CA5-B421-C3FFC167198E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31317BA1-409F-4CA5-B421-C3FFC167198E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
