@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-06-Operaciones_basicas",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-07-Operaciones_relacionadas_con_conjuntos", "01-07-Operaciones_relacionadas_con_conjuntos\01-07-Operaciones_relacionadas_con_conjuntos.csproj", "{2CDDFD7C-A1A6-41DC-AD2D-1353F357348E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-08-Sintaxis_fluida", "01-08-Sintaxis_fluida\01-08-Sintaxis_fluida.csproj", "{7A346B00-FC02-4605-BF91-2393DC3749CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2CDDFD7C-A1A6-41DC-AD2D-1353F357348E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CDDFD7C-A1A6-41DC-AD2D-1353F357348E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CDDFD7C-A1A6-41DC-AD2D-1353F357348E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A346B00-FC02-4605-BF91-2393DC3749CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A346B00-FC02-4605-BF91-2393DC3749CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A346B00-FC02-4605-BF91-2393DC3749CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A346B00-FC02-4605-BF91-2393DC3749CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
