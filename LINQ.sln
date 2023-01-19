@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-05-Elementos_XML-II", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-06-Elementos_XML-III", "02-06-Elementos_XML-III\02-06-Elementos_XML-III.csproj", "{4012D11B-5ACA-4608-A227-4C137D6D3489}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-07-LINQ_en_WindowsForms", "02-07-LINQ_en_WindowsForms\02-07-LINQ_en_WindowsForms.csproj", "{3813E924-904A-47E7-9F1A-14C19D96FC80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{4012D11B-5ACA-4608-A227-4C137D6D3489}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4012D11B-5ACA-4608-A227-4C137D6D3489}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4012D11B-5ACA-4608-A227-4C137D6D3489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3813E924-904A-47E7-9F1A-14C19D96FC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3813E924-904A-47E7-9F1A-14C19D96FC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3813E924-904A-47E7-9F1A-14C19D96FC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3813E924-904A-47E7-9F1A-14C19D96FC80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
