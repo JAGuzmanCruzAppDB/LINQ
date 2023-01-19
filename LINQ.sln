@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-01-LINQ-to_objects", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-02-Modos_diferido_e_inmediato", "01-02-Modos_diferido_e_inmediato\01-02-Modos_diferido_e_inmediato.csproj", "{00036EE2-3321-44E1-B495-162345F45284}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-03-Query_desde_metodos", "01-03-Query_desde_metodos\01-03-Query_desde_metodos.csproj", "{0342FB3F-0BB6-42E4-A705-32C876D80433}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{00036EE2-3321-44E1-B495-162345F45284}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00036EE2-3321-44E1-B495-162345F45284}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00036EE2-3321-44E1-B495-162345F45284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0342FB3F-0BB6-42E4-A705-32C876D80433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0342FB3F-0BB6-42E4-A705-32C876D80433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0342FB3F-0BB6-42E4-A705-32C876D80433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0342FB3F-0BB6-42E4-A705-32C876D80433}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
