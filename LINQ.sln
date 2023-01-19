@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-04-Elementos_XML-I", "02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-05-Elementos_XML-II", "02-05-Elementos_XML-II\02-05-Elementos_XML-II.csproj", "{3A965BF3-ABC6-4369-9BF4-31C67E48212F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-06-Elementos_XML-III", "02-06-Elementos_XML-III\02-06-Elementos_XML-III.csproj", "{4012D11B-5ACA-4608-A227-4C137D6D3489}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{3A965BF3-ABC6-4369-9BF4-31C67E48212F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A965BF3-ABC6-4369-9BF4-31C67E48212F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A965BF3-ABC6-4369-9BF4-31C67E48212F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4012D11B-5ACA-4608-A227-4C137D6D3489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4012D11B-5ACA-4608-A227-4C137D6D3489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4012D11B-5ACA-4608-A227-4C137D6D3489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4012D11B-5ACA-4608-A227-4C137D6D3489}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
